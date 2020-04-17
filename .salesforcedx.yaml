@@ -1,9 +1,9 @@
 scratch-org-def: config/project-scratch-def.json
-  assign-permset: true
-  permset-name: Timeline_User
-  run-apex-tests: true
-  delete-scratch-org: false
-  show-scratch-org-url: true
-  open-path: one/one.app
-  data-plans:
-    - ./data/timeline-plan.json
+assign-permset: true
+permset-name: Timeline_User
+run-apex-tests: true
+delete-scratch-org: false
+show-scratch-org-url: true
+open-path: one/one.app
+data-plans:
+  - ./data/timeline-plan.json
