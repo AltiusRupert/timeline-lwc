@@ -41,6 +41,7 @@
   <img alt="timeline demo" src="images/heroDemo.gif">
 </p>
 
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 ## Overview
 A complete custom experience component. Created to allow users to view related records to a parent on an interactive timeline written with D3.js.
